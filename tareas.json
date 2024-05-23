@@ -1,0 +1,17 @@
+[
+    {
+        "descripcion": "Comprar en el super",
+        "estado": false,
+        "creado_en": "2024-05-06T16:45:18.726566",
+        "realizada_en": null,
+        "fecha_realizar": "7-05-2024"
+    },
+    {
+        "descripcion": "Entregar Trabajo Final Python Fullstack",
+        "estado": true,
+        "creado_en": "2024-05-06T16:49:09.547900",
+        "realizada_en": "2024-05-06T16:52:07.666813",
+        "fecha_realizar": "6-05-24 17:00"
+    }
+]
+
