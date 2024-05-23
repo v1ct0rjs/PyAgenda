@@ -3,9 +3,9 @@ Task manager written in Python
 
 PyAgenda is a simple task management program written in Python. It allows you to add, complete, display, and delete tasks. The tasks are stored in a JSON file for persistence.
 
-![runing](PyaAgenda002.png)
-![runing](PyaAgenda003.png)
-![runing](PyaAgenda004.png)
+![runing](PyAgenda002.png)
+![runing](PyAgenda003.png)
+![runing](PyAgenda004.png)
 
 ## Classes
 
